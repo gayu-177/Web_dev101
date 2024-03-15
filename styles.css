@@ -1,1 +1,10 @@
-/* WRITE YOUR CODE IN HERE!!!!  */
+.square {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(203, 19, 19);
+    
+}
+
+.square:nth-child(odd) {
+  background-color: black; 
+}
